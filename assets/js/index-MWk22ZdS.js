@@ -1,0 +1,1 @@
+import{_ as e,H as n,I as a}from"./index-BifmGccm.js";const c={};function i(s,t){return n(),a("div")}const r=e(c,[["render",i],["__file","/home/jenkins/agent/workspace/AR093-Pages-india-jaiclub/src/views/main/PointDetail/index.vue"]]);export{r as default};
